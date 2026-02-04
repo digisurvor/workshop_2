@@ -20,19 +20,23 @@ This public page contains slide decks from presenters at the second DIGISURVOR W
 No Abstract
 
 **Session 2:** Keynote talk: “Linking Survey and Social Media Data: Bridging the Gap Between Data Protection and Open Research” <br/>
+<br/>
+Conor Gaughan (University of Manchester)
+<br/>
 The augmentation of survey data with social media data (SMD) can unlock new insights and avenues of research previously unavailable to social scientists. However, unlike conventional survey research where standardised ethical practices have been established over many decades of study, researchers have only just begun to reflect on the ethics of linking these data with external data sources such as SMD. This article reflects on one area of this discussion: how researchers can bridge the gap between data protection and data utility when sharing these linked datasets with other researchers. We begin by discussing the broader context of linked survey-to-SMD in which this paper sits. When then discuss the ethical and legal restrictions to open sharing of SMD and how this can be compounded when linked with survey data. We reflect on how these restrictions conflict with the FAIR principles of open research and conceptualise this compliance-utility trade-off as a “spectrum of openness”, rooted in the most up-to-date practices in data anonymisation, statistical disclosure control, and the access models of major data archival services. Finally, we conclude with some practical guidance and takeaways for researchers looking to share both standalone SMD and SMD linked with external data sources such as survey responses.
 
-**Session 3:** Detecting and correcting bias in linked data sources
+**Session 3:** Detecting and correcting bias in linked data sources <br/>
+<br/>
 Paulina Pankowska (University of Utrecht) and Ruben Bach (University of Mannheim) “The gendered division of cognitive household labor and mental load in the digital space”
+<br/>
 We use digital trace data (tracked websites to be precise) in combination with surveys to see whether we can validly estimate the gendered division of cognitive household labor and mental load using the website data. We will use the survey data to validate our estimates (as we have a question about cognitive household labor and mental load).
-
-
+<br/>
 Sarah Shugars (Rutgers University) “The speech we miss: How keyword-based data collection obscures youth participation in online political discourse”
+<br/>
 In this work, we leverage a panel of over 1.6 million Twitter users matched with public voter records to assess how a standard keyword-based approach to social media data collection performs in the context of participatory politics, and we critically examine the speech this method leaves behind. We find that keyword classifiers undercount young people’s participation in online political discourse, and that valuable political expression is lost in the process. We argue that a mainstream keyword approach to collecting social media data is not well-suited to the participatory politics associated with young people and may reinforce a false perception of youth political apathy as a result.
-
-
+<br/>
 Conor Gaughan and Alex Cernat (University of Manchester) “Who consents to sharing their tweets with researchers? A comparative analysis of selection bias in linked survey and social media data.”
-
+<br/>
 Survey research is entering a new era which centres on its linkage with other forms of digitally generated data such as social media. Many suggest that this can help to address existing weaknesses in self-report surveys such as non-response and measurement bias. However, to link a participant’s survey responses to their social media data, consent from the participant is required. Previous studies have shown that consent to linkage is typically low and selective. This paper expands on the existing literature by comparing Twitter (now X) usage and consent to survey linkage across five national contexts. Testing the effects of several socio-demographic and attitudinal predictors in the US, the UK, France, Germany, and Poland, our study finds that overall consent rates vary significantly by age, political attention, privacy concern, trust in social media companies, and frequency of political posting on Twitter/X. However, our results also confirm that variable effects differ significantly between nations, suggesting a moderating cultural influence. Within-country variation in the US between 2020 and 2024 is also present, indicating that effects are not necessarily fixed over time. These findings dictate the need for caution when conducting substantive comparisons across countries and time when using social media data. 
 
 **Session 4:** Roundtable Discussion: Researcher Access to DTD - Future Prospects, Opportunities and Challenges
