@@ -11,16 +11,15 @@ This public page contains slide decks from presenters at the second DIGISURVOR W
 
 [Back to Main](https://digisurvor.github.io/main/)
 
-**WORKSHOP SLIDE DECKS**
 
 **TALK ABSTRACTS AND SLIDES**
 
 **Day 1 – Tuesday 13th January**
 
-**Session 1:** Update on the DIGISURVOR project (UoM team - Rachel, Marta, Alex, Riza and Conor)
+**Session 1:** Update on the DIGISURVOR project (UoM team - Rachel, Marta, Alex, Riza and Conor) <br/>
 No Abstract
 
-**Session 2:** Keynote talk “Linking Survey and Social Media Data: Bridging the Gap Between Data Protection and Open Research” 
+**Session 2:** Keynote talk: “Linking Survey and Social Media Data: Bridging the Gap Between Data Protection and Open Research” <br/>
 The augmentation of survey data with social media data (SMD) can unlock new insights and avenues of research previously unavailable to social scientists. However, unlike conventional survey research where standardised ethical practices have been established over many decades of study, researchers have only just begun to reflect on the ethics of linking these data with external data sources such as SMD. This article reflects on one area of this discussion: how researchers can bridge the gap between data protection and data utility when sharing these linked datasets with other researchers. We begin by discussing the broader context of linked survey-to-SMD in which this paper sits. When then discuss the ethical and legal restrictions to open sharing of SMD and how this can be compounded when linked with survey data. We reflect on how these restrictions conflict with the FAIR principles of open research and conceptualise this compliance-utility trade-off as a “spectrum of openness”, rooted in the most up-to-date practices in data anonymisation, statistical disclosure control, and the access models of major data archival services. Finally, we conclude with some practical guidance and takeaways for researchers looking to share both standalone SMD and SMD linked with external data sources such as survey responses.
 
 **Session 3:** Detecting and correcting bias in linked data sources
