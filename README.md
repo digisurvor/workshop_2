@@ -6,7 +6,7 @@ This public page contains slide decks from presenters at the second DIGISURVOR W
 [Workshop Agenda](docs/Workshop%202%20draft%20agenda.docx)
 
 
-[Excercise Outputs](docs)
+[Excercise Outputs](docs/Input_Group%20Exercise.pdf)
 
 
 [Back to Main](https://digisurvor.github.io/main/)
