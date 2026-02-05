@@ -3,7 +3,7 @@ This public page contains slide decks from presenters at the second DIGISURVOR W
 
 **Documents**
 
-[Workshop Agenda](docs/Workshop%202%20draft%20agenda.docx)
+[Workshop Agenda](docs/Workshop%202%20draft%20agenda.pdf))
 
 
 [Excercise Outputs](docs/Input_Group%20Exercise.pdf)
