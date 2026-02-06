@@ -16,7 +16,7 @@ This public page contains slide decks from presenters at the second DIGISURVOR W
 
 **Day 1 – Tuesday 13th January**
 
-**Session 1:** Update on the DIGISURVOR project (UoM team - Rachel, Marta, Alex, Riza and Conor) <br/>
+**Session 1:** [Update on the DIGISURVOR project (UoM team - Rachel, Marta, Alex, Riza and Conor)](docs/UoM%20Team%20Presentation_Digisurvor%20Workshop%202%20Overview%20(1).pdf) <br/>
 No Abstract <br/>
 
 **Session 2:** Keynote talk: “Linking Survey and Social Media Data: Bridging the Gap Between Data Protection and Open Research” <br/>
